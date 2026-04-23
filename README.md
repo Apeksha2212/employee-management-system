@@ -1,3 +1,29 @@
-# employee-management-system
-Employee Management System is a full-stack web application built using React.js and Spring Boot. It provides CRUD operations to manage employee data with REST APIs and MySQL. The system has a responsive UI and follows clean architecture.
-.
+# Employee Management System
+
+## 🚀 Tech Stack
+- Backend: Spring Boot
+- Frontend: React + TypeScript
+- Database: MySQL
+
+## 📌 Features
+- Add, Update, Delete Employees
+- REST APIs
+- Responsive UI
+
+## ▶️ Run Project
+
+### Backend
+cd backend
+mvn spring-boot:run
+
+### Frontend
+cd frontend
+npm install
+npm start
+
+## 📷 Screenshots
+(Add screenshots here)
+
+## 👨‍💻 Author
+Apeksha Shinde
+ 
