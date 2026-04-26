@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System
 
 ## 🚀 Tech Stack
@@ -27,3 +28,6 @@ npm start
 ## 👨‍💻 Author
 Apeksha Shinde
  
+=======
+# employee-management
+>>>>>>> 2d7379df0927a1c4b29d517e16e46bd811da4bd2
